@@ -2,6 +2,6 @@ id=gjf_bt
 name=Bluetooth stack bit rate changer + aptX&aptX-HD Enabler
 version=486
 versionCode=4
-author=gjf
+author=Gray Jack the Fixxxer
 description=A module to increase Bluetooth bit rate to 486 kbit/s, also enables aptX&aptxHD. For Redmi 4X only!
 minMagisk=17000
